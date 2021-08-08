@@ -1,0 +1,2 @@
+Son solo para que pruebes se cargan modificando emulators.cfg y agregando una opción más(Como en el siguiente ejemplo que ya se encuentra):
+supershader = "XINIT:/opt/retropie/emulators/supermodel/bin/supermodel -game-xml-file=/opt/retropie/emulators/supermodel/bin/Config/Games.xml -legacy3d -sound-volume=50 -music-volume=60 -no-vsync -no-throttle -no-dsb -res=496,384 -frag-shader=/opt/retropie/emulators/supermodel/bin/Shaders/Fragment_NoSpotlight.glsl %ROM%"
