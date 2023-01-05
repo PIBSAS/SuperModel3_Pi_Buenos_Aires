@@ -4,7 +4,7 @@ Emulador Supermodel para Raspberry Pi 4B, RetroPie y Raspberry Pi OS
 # Tutorial Completo + Romset en :
 https://sites.google.com/view/raspberryargentina/sega-model-3-retropie-raspberry-pi-4
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/raspberrypibsas)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
 
 <h1 align="center"> Invite a Coffee</h1>
 </p>
