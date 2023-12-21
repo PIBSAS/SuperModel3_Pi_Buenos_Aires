@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Que vago nene! :)"
 cd
-git clone https://github.com/Luciano2018/SuperModel3_Pi_Buenos_Aires.git
+git clone https://github.com/PIBSAS/SuperModel3_Pi_Buenos_Aires.git
 echo "Nos movemos a la carpeta que clonamos"
 cd SuperModel3_Pi_Buenos_Aires
 echo "Necesitamos crear unas carpetas..."
