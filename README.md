@@ -1,8 +1,8 @@
-# Super Model 3 en Raspberry Pi, tutorial por Raspberry Pi Buenos Aires
+# Super Model 3 en Raspberry Pi, tutorial por Luciano's tech
 Emulador Supermodel para Raspberry Pi 4B, RetroPie y Raspberry Pi OS
 
 # Tutorial Completo + Romset en :
-https://sites.google.com/view/raspberryargentina/sega-model-3
+https://sites.google.com/view/lucianostech/sega-model-3
 
 <h1 align="center"> Invite a Coffee</h1>
 <p align="center">
